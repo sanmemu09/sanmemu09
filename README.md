@@ -1,4 +1,4 @@
-## Hi, I am Santiago Mendoza from Colombia
+## Hi, I am Santiago Mendoza from Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia flag" width="30">
 
 👋  Welcome to my GitHub profile!
 
